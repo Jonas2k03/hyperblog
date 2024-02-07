@@ -38,3 +38,12 @@ body {
     background: white;
     padding: 1em;
 }
+
+#footer {
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 1em;
+    box-shadow: 0 px 2px 20px 0px rgba(0, 0, 0, 0.5);
+}
